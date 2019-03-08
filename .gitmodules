@@ -1,0 +1,3 @@
+[submodule "git-presentation-examples"]
+	path = git-presentation-examples
+	url = https://github.com/AdamSLevy/git-presentation-examples.git
